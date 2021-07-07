@@ -1,4 +1,4 @@
-#ReactJS
+###ReactJS
 
 A simple social app built on [Reqres API](https://reqres.in/) to solidify ReactJS concepts
 
